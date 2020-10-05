@@ -1,10 +1,3 @@
---Grupo:
---Pedro Henrique Goncalves Teixeira-11821BCC008
---Maríllia Soares Rodrigues-11821BCC020
-
-
-
-
 
 --Testes no GHCI:
 l1 :: [Integer]
